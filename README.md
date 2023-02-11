@@ -1,7 +1,5 @@
 # C-Projects
-C exercises
-
-The solution consists of 21 C projects. Each of the projects is a solution to a given task. The conditions of the relevant tasks are defined as follows:
+The solution consists of 21 simple C projects. Each of the projects is a solution to a given task. The conditions of the relevant tasks are defined as follows:
 
 Project 1:
 The user submits some integers and types -999 to stop the submission. Find the average of all digits before -999.
